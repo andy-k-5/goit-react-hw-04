@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getPhotos } from "../baseUrl";
+import { getPhotos } from "../../baseUrl";
 import SearchBar from "../SearchBar/SearchBar";
 import "./App.css";
 import ImageGallery from "../ImageGallery/ImageGallery";
