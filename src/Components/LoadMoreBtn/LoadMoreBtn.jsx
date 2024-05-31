@@ -1,4 +1,4 @@
-import css from "../LoadMoreBtn.module.css";
+import css from "./LoadMoreBtn.module.css";
 export default function LoadMoreBtn({ newSubmit }) {
   return (
     <>
